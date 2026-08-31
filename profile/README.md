@@ -35,7 +35,7 @@
 
 | 仓库 | 简介 |
 |------|------|
-| [**webrtc-demo**](https://github.com/build-workbench/webrtc-demo) | WebRTC 全栈教学项目:Go 信令 + 浏览器原生 WebRTC,音视频通话 / DataChannel / 屏幕共享 |
+| [**webrtc-call**](https://github.com/build-workbench/webrtc-call) | WebRTC 通话教学项目:浏览器原生 P2P 音视频通话(1v1 / Mesh 多人),配套 Go 信令 |
 | [**webrtc-signaling**](https://github.com/build-workbench/webrtc-signaling) | Go WebRTC 信令服务教学:JWT、Redis Pub/Sub、Prometheus、结构化日志、限流 |
 | [**chatroom**](https://github.com/build-workbench/chatroom) | 全栈开发教学项目:Go + React + PostgreSQL + WebSocket |
 
