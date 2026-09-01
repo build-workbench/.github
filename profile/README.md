@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Vibe Knight
+# ⚡ Build Workbench
 
 **AI-native projects, experiments, and tools built through vibe coding.**
 **用 Vibe Coding 构建的 AI 原生项目、实验与工具。**
@@ -21,6 +21,7 @@
 | [**meta-human**](https://github.com/build-workbench/meta-human) | 浏览器原生 3D 数字人引擎,集成语音与对话 |
 | [**yolo-toys**](https://github.com/build-workbench/yolo-toys) | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 |
 | [**brave-sync-notes**](https://github.com/build-workbench/brave-sync-notes) | 端到端加密笔记同步系统,客户端加密、服务器零知识 |
+| [**chat-stash**](https://github.com/build-workbench/chat-stash) | 基于大模型的聊天记录智能收纳与检索工具 |
 
 ### 🛠️ 浏览器效率工具(PWA / 本地优先)
 
@@ -46,8 +47,13 @@
 | [**nbody-gpu-sim**](https://github.com/build-workbench/nbody-gpu-sim) | CUDA 加速百万粒子 N 体模拟:Direct N² / Barnes-Hut / Spatial Hash,OpenGL 实时可视化 |
 | [**cudaimg**](https://github.com/build-workbench/cudaimg) | CUDA 图像处理入门教学项目:通过图像处理算子学习 CUDA 编程 |
 | [**compress-kit**](https://github.com/build-workbench/compress-kit) | C++17 实现并验证 Huffman、算术、区间与 RLE 经典无损压缩算法 |
-| [**awesome-compression**](https://github.com/build-workbench/awesome-compression) | 压缩学习资料合集(已归档,活跃仓库见 compress-kit) |
 | [**utop**](https://github.com/build-workbench/utop) | Rust 编写的轻量级终端进程监视器,教学向 htop 实现(ratatui + sysinfo) |
+
+### 📚 学习资源
+
+| 仓库 | 简介 |
+|------|------|
+| [**awesome-compression**](https://github.com/build-workbench/awesome-compression) | 压缩学习资料合集(已归档,活跃仓库见 compress-kit) |
 
 ---
 
