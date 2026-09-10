@@ -20,7 +20,7 @@
 | [**JadeAI**](https://github.com/build-workbench/JadeAI) | AI 驱动的简历与求职工作台:拖拽编辑、AI 优化、模拟面试、多格式导出 |
 | [**meta-human**](https://github.com/build-workbench/meta-human) | 浏览器原生 3D 数字人引擎,集成语音与对话 |
 | [**yolo-toys**](https://github.com/build-workbench/yolo-toys) | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 |
-| [**brave-sync-notes**](https://github.com/build-workbench/brave-sync-notes) | 端到端加密笔记同步系统,客户端加密、服务器零知识 |
+| [**shadow-note**](https://github.com/build-workbench/shadow-note) | 端到端加密笔记同步系统,客户端加密、服务器零知识 |
 | [**chat-stash**](https://github.com/build-workbench/chat-stash) | 基于大模型的聊天记录智能收纳与检索工具 |
 
 ### 🛠️ 浏览器效率工具(PWA / 本地优先)
@@ -48,12 +48,20 @@
 | [**cudaimg**](https://github.com/build-workbench/cudaimg) | CUDA 图像处理入门教学项目:通过图像处理算子学习 CUDA 编程 |
 | [**compress-kit**](https://github.com/build-workbench/compress-kit) | C++17 实现并验证 Huffman、算术、区间与 RLE 经典无损压缩算法 |
 | [**utop**](https://github.com/build-workbench/utop) | Rust 编写的轻量级终端进程监视器,教学向 htop 实现(ratatui + sysinfo) |
+| [**gpu-spmv**](https://github.com/build-workbench/gpu-spmv) | C++17/CUDA 稀疏矩阵向量乘法(SpMV)专项库:CSR + ELL 格式、四种内核、自动选核与基准测试 |
+| [**webgpu-sorting**](https://github.com/build-workbench/webgpu-sorting) | 使用 WebGPU 计算着色器处理 Uint32Array 排序的 GPU 加速项目,含分块扫描修复与回归测试 |
+
+### 🖥️ 桌面与系统工具
+
+| 仓库 | 简介 |
+|------|------|
+| [**dig-your-windows**](https://github.com/build-workbench/dig-your-windows) | Windows 深度诊断工具:硬件监控、SMART、事件日志与健康评分 |
 
 ### 📚 学习资源
 
 | 仓库 | 简介 |
 |------|------|
-| [**awesome-compression**](https://github.com/build-workbench/awesome-compression) | 压缩学习资料合集(已归档,活跃仓库见 compress-kit) |
+| [**awesome-compression**](https://github.com/build-workbench/awesome-compression) | 无损压缩算法、库、工具与学习资源精选,面向中文社区 |
 
 ---
 
@@ -61,7 +69,7 @@
 
 - 定位:**AI 原生工具 + 教学向开源项目**,追求代码结构清晰、可读可学。
 - 风格:本地优先 / 隐私优先(PWA、端到端加密),算法项目注重可验证性。
-- 全部仓库基于 **MIT License**(JadeAI 为 Apache-2.0),欢迎学习、使用与贡献。
+- 许可:多数仓库为 **MIT**;JadeAI 为 Apache-2.0,utop 为 Apache-2.0/MIT 双许可,awesome-compression 为 CC0-1.0。欢迎学习、使用与贡献。
 - 有问题?在每个仓库的 Issues 中提问即可。
 
 > 用 vibe coding 快速构建,用工程标准认真打磨。
