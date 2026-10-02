@@ -17,20 +17,20 @@
 
 | 仓库 | 简介 |
 |------|------|
-| [**JadeAI**](https://github.com/build-workbench/JadeAI) | AI 驱动的简历与求职工作台:拖拽编辑、AI 优化、模拟面试、多格式导出 |
+| [**JadeAI**](https://github.com/build-workbench/JadeAI) | AI 驱动的简历与求职工作台:拖拽编辑、AI 优化、模拟面试、招聘评估、多格式导出 |
 | [**meta-human**](https://github.com/build-workbench/meta-human) | 浏览器原生 3D 数字人引擎,集成语音与对话 |
 | [**yolo-toys**](https://github.com/build-workbench/yolo-toys) | 多模型视觉推理服务:YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 |
 | [**shadow-note**](https://github.com/build-workbench/shadow-note) | 端到端加密笔记同步系统,客户端加密、服务器零知识 |
-| [**chat-stash**](https://github.com/build-workbench/chat-stash) | 基于大模型的聊天记录智能收纳与检索工具 |
+| [**chat-stash**](https://github.com/build-workbench/chat-stash) | Chrome 扩展一键保存 AI 聊天记录:Supabase 存储与全文检索 |
 
 ### 🛠️ 浏览器效率工具(PWA / 本地优先)
 
 | 仓库 | 简介 |
 |------|------|
 | [**bookmarks-manager**](https://github.com/build-workbench/bookmarks-manager) | 纯前端、无后端、数据不出浏览器的书签整理 PWA |
-| [**bookmarks-cleaner**](https://github.com/build-workbench/bookmarks-cleaner) | 离线书签自动分类引擎:规则优先 · ML 辅助 · LLM 可选 |
+| [**bookmarks-cleaner**](https://github.com/build-workbench/bookmarks-cleaner) | 离线书签自动分类引擎:规则优先 · LLM 可选 |
 | [**mind-gym**](https://github.com/build-workbench/mind-gym) | 浏览器端认知训练 PWA:自适应难度、N-back 训练、间隔重复 |
-| [**graph-viewer**](https://github.com/build-workbench/graph-viewer) | 一站式图表可视化工具,支持 16+ 图表引擎,混合本地/远程渲染 |
+| [**graph-viewer**](https://github.com/build-workbench/graph-viewer) | 一站式图表可视化工具,支持 16 种图表引擎,混合本地/远程渲染 |
 
 ### 🌐 实时通信与全栈教学
 
